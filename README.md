@@ -1,0 +1,2 @@
+# delonm
+Kurdish skrpt
